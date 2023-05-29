@@ -1,1 +1,2 @@
 I am Anaswara Vijayan. I love dogs
+I added my repository and read and tried to understand the assignments. Next I am going to commit and push the file.
